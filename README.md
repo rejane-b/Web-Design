@@ -117,11 +117,11 @@ You'll build four of these, one for each visualization. Here's an example of one
 
 Large screen:
 
-![visualize page large screen]()
+![visualize page large screen]
 
 Small screen:
 
-![visualize page small screen])
+![visualize page small screen]
 
 #### <a id="navigation-menu"></a>Navigation menu
 
